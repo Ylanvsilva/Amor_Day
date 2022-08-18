@@ -170,34 +170,6 @@ footer {
     align-items: center;
 }
 
-.socials {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 20px 0 20px 0;
-}
-
-.socials li {
-    margin: 0 10px;
-}
-
-.socials a {
-    text-decoration: none;
-    color: white;
-    box-shadow: 3px 3px 3px rgba(146, 0, 122, 0.9);
-    border-radius: 10px;
-}
-
-.socials a i {
-    font-size: 1.1rem;
-    transition: color .3s ease;
-}
-
-.socials a:hover i {
-    color: rgba(255, 0, 255, .9);
-}
-
 .footer-bottom {
     background: rgba(255, 0, 255, .9);
     width: 95vw;
